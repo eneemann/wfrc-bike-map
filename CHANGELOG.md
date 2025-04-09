@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.4.0-13](https://github.com/agrc/wfrc-bike-map/compare/v0.4.0-12...v0.4.0-13) (2025-04-09)
+
+
+### Features
+
+* add logo and favicon ([5c7a0ae](https://github.com/agrc/wfrc-bike-map/commit/5c7a0ae728235d626fbf7669811df1baf54283b0)), closes [#23](https://github.com/agrc/wfrc-bike-map/issues/23)
+* add zoom to my location button ([1bac0cf](https://github.com/agrc/wfrc-bike-map/commit/1bac0cfba5d3c873eea3897048602a6b2b2677c6)), closes [#78](https://github.com/agrc/wfrc-bike-map/issues/78)
+
+
+### Bug Fixes
+
+* **scripts:** fix city & county join and other refinements ([21c4397](https://github.com/agrc/wfrc-bike-map/commit/21c4397637f0ac08bddbe9d6d297677c35b72b93))
+* **scripts:** updates in preparation for running as part of the roads update ([094b528](https://github.com/agrc/wfrc-bike-map/commit/094b528a7448b0ff9872219ca88a17d96b60c37b))
+
+
+### Documentation
+
+* **scripts:** centralize parameter docs ([c3193f4](https://github.com/agrc/wfrc-bike-map/commit/c3193f4b0c81e23d53ca37c378c0c9e4887ccb78))
+
 ## [0.4.0-12](https://github.com/agrc/wfrc-bike-map/compare/v0.4.0-11...v0.4.0-12) (2025-04-02)
 
 
